@@ -1,0 +1,2 @@
+# newerblog
+auto blogger
